@@ -1,2 +1,2 @@
-# woddlery
-Woddle blog
+# Woddlery
+Official blog from Woddle.io
