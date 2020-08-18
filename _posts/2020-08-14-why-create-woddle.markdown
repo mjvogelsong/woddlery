@@ -9,15 +9,16 @@ categories: starter
 
 In an ideal world, what would be the best way to access, use, and build upon the world's collection of information and services? There's a lot of useful data, ideas, and functionality on the internet, but it's all scattered, inconsistent, and follows a million different conventions, which makes it harder to use and build upon. So, the goal of Woddle is to figure out the most intuitive interface to the internet for builders and creators. The practical approach is actually pretty simple: let people ask for what they want! On Woddle.io, people (developers are the initial audience) ask for small pieces of functionality they want to see ("request a Woddle"), and then a marketplace of builders implements the most in-demand APIs to fulfill those "Woddle" requests. By delegating implementation details to the domain experts, you can focus more on how to frame questions and less on technical details (like specific databases / protocols / models / etc.). This lowers the barrier to create new research, ideas, services, and businesses - which, in turn, enables more woddles, further fueling the cycle.
 
-There are a few aspects to emphasize: first, when you are requesting a "Woddle," we encourage you to think in terms of what you want to accomplish, rather than what an isolated product, database, or company you think the woddle might match. This frames the question in more fruitful ways, leading to better and more directly impactful solutions. Second, while many developers commonly view APIs as a layer over a database, there are so many more interfaces out there. For example, generative models, functions, classification, input/output transforms, and many more. In other words, the woddles can and should ask for interfaces well beyond a database abstraction. The key is to think, "what could I do if I had the world's information *and* functionality at my fingertips?"
+There are a few aspects to emphasize: first, when you are requesting a "Woddle," we encourage you to think in terms of what you want to accomplish, rather than what an isolated product, database, or company you think the woddle might match. This frames the question in a way that's a better proxy for what you really want. Second, while many developers commonly view APIs as a layer over a database, there are so many more interface options - generative models, functions, classifiers, input/output transforms, and many more. In other words, the woddles can and should ask for interfaces well beyond a database abstraction. The key is to think, "what could I do if I had the world's information *and* functionality at my fingertips?"
 
 ## What does success look like?
 
-It's a community where building and creating is more broadly accessible. Our system reduces the time and effort between having an idea or goal, and having a system that makes that idea or goal a reality.
+We'd love to see a community where building and creating is more broadly accessible. Our system would reduce the time and effort between having an idea or goal, and having a system that makes that idea or goal a reality.
 
 ## Why is it called "Woddle"?
 
 There are two reasons:
+
 (A) Everyone woddles before they learn to run. And on Woddle.io, you woddle before you run an API.
 (B) I like penguins, and penguins are good at woddlin'.
 
