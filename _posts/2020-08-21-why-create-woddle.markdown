@@ -15,10 +15,10 @@ There are a few aspects we emphasize to users: first, we encourage you to think 
 
 # What does success look like?
 
-We'd love to see a community where building and creating is more broadly accessible. Our system would reduce the time and effort between having an idea or goal, and having a system that makes it a reality.
+We'd love to see a community where building and creating is more broadly accessible. Our system would reduce the time and effort between having an idea or goal, and having a system that makes it a reality. We want Woddle to enable cool new ideas, research, and businesses.
 
 
-# Why is it called "Woddle"?
+# Why is it called *Woddle*?
 
 Two reasons:
 
