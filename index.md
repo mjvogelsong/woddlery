@@ -5,4 +5,6 @@
 layout: home
 ---
 
-Return to [Woddle.io](https://woddle.io)
+*The official blog from Woddle.io.*
+
+(Return to [Woddle.io](https://beta.woddle.io))

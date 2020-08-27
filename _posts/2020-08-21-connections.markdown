@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Connections"
-date:   2020-08-14 10:00:00 -0700
+date:   2020-08-21 10:00:00 -0700
 categories: starter
 ---
 
